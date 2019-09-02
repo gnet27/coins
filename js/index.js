@@ -89,7 +89,7 @@ var API_BASE = 'https://www.coinbase.com/api/v2/prices/';
 var API_HISTORY = 'historic?period=';
 var API_SPOT = 'spot';
 var COIN_OPTIONS = [
-'EOS',
+'BTC',
 'BCH',
 'ETH',
 'LTC'];
